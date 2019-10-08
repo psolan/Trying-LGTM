@@ -1,0 +1,13 @@
+Will have to set the Routing thru the Firewall for all the VNets
+
+ARS Team will do confirguartion for the Firewall
+
+Does the Firewall Protects agains Cross Site Scripting, SQL Injections, etc
+
+
+How to achive Hign Availabilty?
+
+Use Load Balancer, deploy two instance and have it load Balanced
+
+
+
